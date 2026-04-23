@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 19:19:52,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
+2026-04-23 19:19:10,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
@@ -106,14 +106,14 @@ CCTV-13,https://iptv.catvod.com/live.php?id=cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=cctv14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
+CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=db2a84fa1a47ccda35261252e35f997e2e7083da0db8369cf0612848c30e97efb2851cf91c1ca38b261647c5e104e3ee881d60d1da85f1e4748958fe7c4d93689021888fe45fbaa99a6e1e45b9$订阅源
+CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=1474d252464d0262ca3f07582748f3768a437115cb98649a10031e0d5681b87d30e16a623c48240db30de9831a46b6ab6040cacaab434ac72fa9ed65ccd886c33c6aab036f78698de7be28c8db$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15%E9%9F%B3%E4%B9%90$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=cctv15$订阅源
